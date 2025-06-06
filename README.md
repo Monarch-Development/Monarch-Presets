@@ -18,4 +18,5 @@ If you don't see the creators of maps you use it's because the presets are based
 - **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on [Discord](https://discord.gg/RxpNTx2YKZ) to organize us
 
 ## Links
-- [Discord](https://discord.gg/RxpNTx2YKZ) for support and more free scripts.
+- [Discord](https://discord.gg/RxpNTx2YKZ)
+- [Docs](https://monarch-docs.ricodev.it/docs/monarch-resources/presets)
