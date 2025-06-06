@@ -12,7 +12,6 @@
 - [Kingmaps](https://kingmaps.net/)
 - [Mr. Hunter](https://mrhunter.tebex.io/)
 - [Ajaxon](https://ajaxon.tebex.io/)
-- [Destro1d](https://destro1d.tebex.io/)
 
 If you don't see the creators of maps you use it's because the presets are based on maps that I have on my server and from creators who have made themselves available for the creation of presets and on which I can therefore make presets.
 - **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/RxpNTx2YKZ)
