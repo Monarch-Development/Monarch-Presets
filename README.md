@@ -14,9 +14,9 @@
 - [Ajaxon](https://ajaxon.tebex.io/)
 
 If you don't see the creators of maps you use it's because the presets are based on maps that I have on my server and from creators who have made themselves available for the creation of presets and on which I can therefore make presets.
-- **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/RxpNTx2YKZ)
-- **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on [Discord](https://discord.gg/RxpNTx2YKZ) to organize us
+- **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/WKtk65yBC6)
+- **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on [Discord](https://discord.gg/WKtk65yBC6) to organize us
 
 ## Links
-- [Discord](https://discord.gg/RxpNTx2YKZ)
+- [Discord](https://discord.gg/WKtk65yBC6)
 - [Docs](https://monarch-docs.ricodev.it/docs/monarch-resources/presets)
