@@ -9,9 +9,9 @@
 - [K4mbi Maps](https://k4mb1maps.com/)
 - [TStudio](https://turbosaif.tebex.io/)
 - [NTeam](https://nteamdev.tebex.io/)
-- [Kingmaps](https://kingmaps.net/)
 - [Mr. Hunter](https://mrhunter.tebex.io/)
 - [Ajaxon](https://ajaxon.tebex.io/)
+- [Fiv3Devs](https://fiv3devs.tebex.io/)
 
 If you don't see the creators of maps you use it's because the presets are based on maps that I have on my server and from creators who have made themselves available for the creation of presets and on which I can therefore make presets.
 - **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/WKtk65yBC6)
